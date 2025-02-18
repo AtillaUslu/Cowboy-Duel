@@ -1,0 +1,27 @@
+﻿{
+	"name": "CowboyDuel",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "com.atus.cowboyduel",
+	"viewport-width": 854,
+	"viewport-height": 480,
+	"author": "",
+	"email": "",
+	"website": "",
+	"orientations": "any",
+	"c2version": "280",
+	"ife": true,
+	"used-plugins": [
+		"Keyboard",
+		"Sprite",
+		"Text",
+		"TiledBg",
+		"Touch"
+	],
+	"used-behaviors": [
+		"Bullet",
+		"EightDir",
+		"Pin",
+		"solid"
+	]
+}
