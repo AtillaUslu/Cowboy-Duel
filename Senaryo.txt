@@ -1,0 +1,19 @@
+1.oyuncu(Mavi Kovboy): Hareket Şeması
+W=yukarı
+S=Aşağı
+D=Ateş etme
+
+2.oyuncu(Kırmızı Kovboy): Hareket Şeması
+Yukarı Ok Tuşu=yukarı
+Aşağı Ok Tuşu=Aşağı
+Sol Ok Tuşu=Ateş etme
+
+
+Cowboy Duel, iki azılı düşmanın bir araya gelerek düello yaptığı bir aksiyon oyunudur. Oyuncular, birbirlerine ateş ederek beş kez isabet sağlamaya çalışır. İlk olarak beş kez hasar veren oyuncu düelloyu kazanır. Oyunda üç farklı harita bulunmaktadır: Vahşi Batı Kasabası, Orman ve Çöl. Her harita, farklı stratejik avantajlar sunar. Hızlı refleksler ve stratejik düşünme ile rakibinizi alt edin ve düellonun galibi olun!
+
+Oyuncular, düelloya başlamadan önce istedikleri haritayı seçebilirler.
+Her düelloda ilk olarak beş kez isabet sağlayan oyuncu kazanır.
+Oyuncular, belirlenen haritada çeşitli engelleri kullanarak stratejik pozisyon alabilirler.
+Oyun, oyuncuların hızlı refleksleri ve doğru atışlarıyla rakiplerine üstünlük sağlamalarını gerektirir.
+
+Oyun Linki: https://www.construct.net/en/free-online-games/cowboy-duel-65400/play
